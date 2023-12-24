@@ -1,1 +1,1 @@
-# Meme-generator
+A meme generator is a tool or application that allows users to create and customize humorous images, typically consisting of a combination of text and images, known as memes. Memes are internet culture phenomena that spread rapidly, often humorously conveying ideas, trends, or relatable situations.
